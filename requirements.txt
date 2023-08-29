@@ -1,0 +1,4 @@
+coverage==7.3.0
+dj-database-url==0.5.0
+psycopg2-binary==2.9.7
+unicorn==2.0.1.post1
